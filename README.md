@@ -153,3 +153,8 @@ Player positions are collected during video processing. OpenCV is used to genera
 **Tracking Algorithm:** ByteTrack
 
 **Team Identification:** K-Means Clustering
+## Live Deployment
+
+The Football Analytics System is deployed using Streamlit Community Cloud.
+
+Live Demo: https://football-analytics-system-92u83e6bv62scc4svotget.streamlit.app/
